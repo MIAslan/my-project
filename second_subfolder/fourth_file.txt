@@ -1,3 +1,0 @@
-Fourth file
-
-This file was modified in new branch
